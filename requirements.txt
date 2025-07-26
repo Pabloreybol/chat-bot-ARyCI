@@ -2,6 +2,6 @@ flask
 twilio
 openai
 requests
-whisper
 pydub
 python-dotenv
+git+https://github.com/openai/whisper.git
